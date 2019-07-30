@@ -1,0 +1,41 @@
+{
+  "bloodDonors": [
+    {
+      "id": 101,
+      "donorName": "Sam Fisher",
+      "bloodGroup": "opos",
+      "phone": 823750827,
+      "lastDonated": "2019-06-12"
+    },
+    {
+      "id": 102,
+      "donorName": "Soap Mactavish",
+      "bloodGroup": "apos",
+      "phone": 823750827,
+      "lastDonated": "2019-05-03"
+    },
+    {
+      "id": 103,
+      "donorName": "John Price",
+      "bloodGroup": "bpos",
+      "phone": 823750827,
+      "lastDonated": "2019-05-05"
+    },
+    {
+      "id": 104,
+      "donorName": "",
+      "bloodGroup": "",
+      "phone": 0,
+      "lastDonated": ""
+    },
+    {
+      "id": 105,
+      "donorName": "",
+      "bloodGroup": "",
+      "phone": 0,
+      "lastDonated": ""
+    }
+  ],
+  "hospitals": [],
+  "sponsors": []
+}

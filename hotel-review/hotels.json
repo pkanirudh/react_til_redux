@@ -1,0 +1,10 @@
+{
+    "hotels":[
+        {
+            "id": 1,
+            "hotelname": "Hilton",
+            "location": "Ekkattuthangal",
+            "rating": 5
+        }
+    ]
+}
